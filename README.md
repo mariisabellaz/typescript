@@ -1,2 +1,2 @@
 # typescript
-# Project for learning rocketseat-bootcamp
+Project for learning rocketseat-bootcamp
